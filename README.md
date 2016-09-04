@@ -2,4 +2,4 @@
 
 Simple fileserver built with node.js
 
-Requires a "Public" folder to house CSS and Javascript files.
+Requires a "public" folder to house HTML, CSS and Javascript files.
